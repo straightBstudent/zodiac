@@ -1,0 +1,16 @@
+.sign-img {
+    width: 300px;
+    height: 300px;
+}
+
+.selected-sign-img {
+    width: 600px;
+    height: 600px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 20px;
+}
